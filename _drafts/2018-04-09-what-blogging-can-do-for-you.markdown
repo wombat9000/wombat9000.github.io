@@ -22,4 +22,6 @@ Persisting knowledge for future reference.
 
 Research that you do in order to write the blog makes you learn.
 
+Further your learning for a particular topic.
+
 It may prompt discussions where you can learn something new.

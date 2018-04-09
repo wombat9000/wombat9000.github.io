@@ -1,7 +1,8 @@
 title: stepping stone
 email: stone.bastian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on software development, agile practices, personal growth.
+  Hi. I'm Bastian. I like to write code and annoy people with corny puns.
+  This blog is about my thoughts on software development, agile practices, personal growth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

@@ -4,6 +4,17 @@ title:  "Writing Things Other Than Code"
 date:   2018-04-09 21:54:42 +0200
 categories: personal-growth
 ---
+**This is a draft. Feedback appreciated. Some specific questions:**
+- **would conrete examples make the article easier to read?**
+  - **if yes, which section do you feel would benefit from an example?**
+- **how long did it take to read?**
+- **which section did you find was the most interesting?**
+
+
+**Thanks for your time :)**
+
+**...**
+
 If you are reading this, odds are that you are somehow involved or interested in
 software development - a complex field whose landscape is changing so rapidly,
 that entire industries are in a permanent struggle to keep pace with
@@ -14,19 +25,28 @@ increasingly difficult to stay on top of all the learnings one is making over
 the years. Even a single week can bring about so many learnings that it becomes
 a challenge to process them effectively.
 
-Writing can serve you as a means to organise and persist your thoughts, while
+Writing can serve as a means to organise and persist your thoughts, while
 also furthering your personal growth. In the following, I want to explore how.
 
 # Sharpening The Saw
-By writing, you reiterate what you already know. This process of reflection is
-highly productive, because it not only brings past learnings to the forefront of
-your mind again, but it also provides you with an opportunity to amend your
-understanding with new ideas.
+By writing, you reiterate what you already know. This process of reflection will
+often turn out to be productive in unexpected ways, because it brings past
+learnings to the forefront of your mind again. In doing so, it also makes you
+explore related topics, bring forth new realisations, maybe even make you
+come up with new ideas of your own.
 
-These new ideas can very naturally lead you to explore related concepts which
-you have not considered before, and thus further your understanding.
+This is especially true for software development. With new technologies and
+practices emerging almost on a daily basis, our knowledge and experience becomes
+outdated quickly. Writing a blog on a recent development can help you put it
+into perspective with what you already know, and refresh related knowledge that
+you may have on the subject.
 
-# Articulate Thoughts More Concisely And Confidently
+# Articulating Thoughts More Concisely And Confidently
+- +vocabulary
+- +articulation
+- +carefully crafted sentences
+- +having a line of thought ready
+
 Do you know the feeling of having a good understanding of what it is you are
 trying to convey, but when you actually attempt to vocalise your thoughts, you
 are having trouble to articulate? If you're like me, you end up grasping for
@@ -47,5 +67,12 @@ A blog article might be a precursor for a presentation or talk, other content
 Persisting knowledge for future reference.
 
 # Community
-It can help you increase your visibility within a community, and build your own brand.
+It can help you increase your visibility within a community, and build your own
+brand.
 It may prompt discussions where you can learn something new.
+
+# Demystification
+- formulate question
+- inner workings
+- research
+- supplement acquiring new skill, gain proficiency

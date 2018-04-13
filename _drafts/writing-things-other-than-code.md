@@ -28,7 +28,7 @@ a challenge to process them effectively.
 Writing can serve as a means to organise and persist your thoughts, while
 also furthering your personal growth. In the following, I want to explore how.
 
-# Sharpening The Saw
+# Sharpening the saw
 When writing about a topic, you deepen your understanding of it. As you think
 about what you are going to write, you will ask yourself questions. Sometimes
 you can come up with the answer yourself, other times you will have to look it
@@ -46,17 +46,33 @@ outdated quickly. Writing a blog on a recent development can help you put it
 into context with what you already know and refresh your knowledge related to
 the subject.
 
-# Articulating Thoughts More Concisely And Confidently
+# Increase conciseness
+No matter whether I am reading an email, listening to a debate, or opening my own
+mouth - I often find that many words are being used without *contributing meaning*
+to what is being said. Take the following example:
+
+![conciseness example](https://i.redd.it/342ikkpuwxhz.jpg)
+
+###### **[Source: reddit][1]** 
+
+You will become a more effective communicator by keeping your words concise.
+Reducing the amount of fluff in sentences helps the receiver to follow along and
+understand the content. This is a skill which is especially valuable where there
+is constant communication, such as when giving a talk, in team meetings, or even
+when pair programming.  
+
+Writing can by building your vocabulary.
+
+As you carefully craft the sentences for your article, you also build your
+vocabulary for the topic. The more elaborate your vocabulary becomes, the easier
+it will be to cast your thoughts into well composed phrases . 
+This vocabulary is not just useful for writing the
+article, but it will also be available to you when you 
+
 - +vocabulary
 - +articulation
 - +carefully crafted sentences
 - +having a line of thought ready
-
-Do you know the feeling of having a good understanding of what it is you are
-trying to convey, but when you actually attempt to vocalise your thoughts, you
-are having trouble to articulate? If you're like me, you end up grasping for
-straws and talking in circles, using too many words while conveying too little
-meaning.
 
 Writing will help you consolidate your vocabulary related to covered the topic.
 
@@ -81,3 +97,10 @@ It may prompt discussions where you can learn something new.
 - inner workings
 - research
 - supplement acquiring new skill, gain proficiency
+
+
+
+Writing is time consuming. But in the end, its worth it through all the benefits it provides.
+
+
+[1]: https://www.reddit.com/r/ProgrammerHumor/comments/6w0yns/honestly_this_is_probably_how_i_would_prefer_to/

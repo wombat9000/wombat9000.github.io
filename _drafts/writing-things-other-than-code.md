@@ -29,17 +29,22 @@ Writing can serve as a means to organise and persist your thoughts, while
 also furthering your personal growth. In the following, I want to explore how.
 
 # Sharpening The Saw
+When writing about a topic, you deepen your understanding of it. As you think
+about what you are going to write, you will ask yourself questions. Sometimes
+you can come up with the answer yourself, other times you will have to look it
+up or do some research, causing you to learn in the process.
+
 By writing, you reiterate what you already know. This process of reflection will
 often turn out to be productive in unexpected ways, because it brings past
 learnings to the forefront of your mind again. In doing so, it also makes you
-explore related topics, bring forth new realisations, maybe even make you
-come up with new ideas of your own.
+explore related topics, and may lead you to new realisations. It can even make
+you come up with new ideas of your own.
 
 This is especially true for software development. With new technologies and
 practices emerging almost on a daily basis, our knowledge and experience becomes
 outdated quickly. Writing a blog on a recent development can help you put it
-into perspective with what you already know, and refresh related knowledge that
-you may have on the subject.
+into context with what you already know and refresh your knowledge related to
+the subject.
 
 # Articulating Thoughts More Concisely And Confidently
 - +vocabulary
